@@ -1,9 +1,9 @@
 config = {
 	proxyRootPath: '/tradeshift-proxy',
-	host: '172.16.33.210',
+	host: 'localhost',
 	port: 8889,
-	authId: 'LewisCompany.DemoService3',
-	thirdPartyHost: '172.16.33.229',
+	authId: 'LJIUS.yaya',
+	thirdPartyHost: 'localhost',
 	thirdPartyPort: 3000
 };
 
